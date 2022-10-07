@@ -6,16 +6,16 @@
 ## Confira imagens do app abaixo 🤳🏻
 
 <p>
-<img src="https://i.imgur.com/oytnTBS.png" alt="List" style="width: 560px; height: 1160px"/>
-<img src="https://i.imgur.com/pg2hZ2T.png" alt="View" style="width: 560px; height: 1160px"/>
+<img src="https://i.imgur.com/oytnTBS.png" alt="List" style="width: 500px; height: 1100px"/>
+<img src="https://i.imgur.com/pg2hZ2T.png" alt="View" style="width: 500px; height: 1100px"/>
 </P>
 <p>
-<img src="https://i.imgur.com/nh04JEO.png" alt="Delete" style="width: 560px; height: 1160px"/>
-<img src="https://i.imgur.com/JIHztgG.png" alt="Edit" style="width: 560px; height: 1160px"/>
+<img src="https://i.imgur.com/nh04JEO.png" alt="Delete" style="width: 500px; height: 1100px"/>
+<img src="https://i.imgur.com/JIHztgG.png" alt="Edit" style="width: 500px; height: 1100px"/>
 </P>
 <p>
-<img src="https://i.imgur.com/WFCk1P0.png" alt="Register Required" style="width: 560px; height: 1160px"/>
-<img src="https://i.imgur.com/T5JN9F2.png" alt="Register" style="width: 560px; height: 1160px"/>
+<img src="https://i.imgur.com/WFCk1P0.png" alt="Register Required" style="width: 500px; height: 1100px"/>
+<img src="https://i.imgur.com/T5JN9F2.png" alt="Register" style="width: 500px; height: 1100px"/>
 </P>
 
 ## 📁 Acessando o Projeto
